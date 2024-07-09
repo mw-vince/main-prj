@@ -1,0 +1,3 @@
+[submodule "Workspace/sub-prj"]
+	path = Workspace/sub-prj
+	url = https://github.com/mw-vince/sub-prj.git
